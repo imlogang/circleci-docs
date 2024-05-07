@@ -45,5 +45,3 @@
 | icon:check[]
 | icon:check[]
 |===
-
-NOTE: `2xlarge` and `2xlarge+` require review by our support team. link:https://support.circleci.com/hc/en-us/requests/new[Open a support ticket] if you would like to request access.

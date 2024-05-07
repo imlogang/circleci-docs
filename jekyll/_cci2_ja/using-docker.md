@@ -88,8 +88,6 @@ Docker イメージは以下の方法で指定することができます。
 | 2xlarge+ | 20   | 40 GB |
 {: class="table table-striped"}
 
-**注**: `2xlarge` と `2xlarge+` はサポートチームのレビューが必要です。 ご利用の際は、[サポートチケットをオープン](https://support.circleci.com/hc/ja/requests/new)してください。
-
 `resource_class` キーを使ってリソースクラスを以下のように指定します。
 
 ```yaml
